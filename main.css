@@ -1,0 +1,34 @@
+body {
+	background: #637847 url("road.png") repeat-y fixed left; 
+}
+
+#carOrange {
+	position: absolute;
+	height: 80px;
+}
+
+#message {
+	position: absolute;
+	font-size: 50px;
+	color: yellow;
+	font-weight: bold;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	width: 500px;
+	height: 100px;
+	text-align: center;
+}
+
+#rules {
+	position: absolute;
+	top: 30px;
+	left: 300px;
+	padding: 10px;
+	width: 200px;
+	border: 5px solid white;
+	color: white; 
+	font-size: 18px;
+}
